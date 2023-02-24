@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of common-login
+ */
+export * from './lib/common-login.service';
+export * from './lib/common-login.component';
+export * from './lib/common-login.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2NvbW1vbi1sb2dpbi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBjb21tb24tbG9naW5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb21tb24tbG9naW4uc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb21tb24tbG9naW4uY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2NvbW1vbi1sb2dpbi5tb2R1bGUnO1xuIl19
